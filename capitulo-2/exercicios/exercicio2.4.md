@@ -1,0 +1,4 @@
+**2.4** As pessoas se inscrevem no Facebook com muita frequência também. Suponha que você decida usar um array para armazenar a lista de usuários. Quais as desvantagens de um array em relação às inserções? Em particular, imagine que você está usando a pesquisa binária para buscar os logins. O que acontece quando
+você adiciona novos usuários em um array?
+
+**Resposta** --> O tamanho da lista de usuários se alterará conforme mais usuários são adicionados, sendo uma desvantagem porque arrays têm a quantidade pré-determinada. Essa é a limitação natural de arrays, não ter versatilidade em relação a própria capacidade.

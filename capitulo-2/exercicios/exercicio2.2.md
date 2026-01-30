@@ -1,0 +1,3 @@
+**2.2** Suponha que você esteja criando um aplicativo para anotar os pedidos dos clientes em um restaurante. Seu aplicativo precisa de uma lista de pedidos. Os garçons adicionam os pedidos a essa lista e os chefes retiram os pedidos da lista. Funciona como uma fila. Os garçons colocam os pedidos no final da fila e os chefes retiram os pedidos do começo dela para cozinhá-los. Você usaria uma array ou listas encadeadas.
+
+**Resposta** --> Lista. Os elementos serão removidos e adicionados conforme pedidos são feitos, sendo mais eficaz e possuindo menor uso de processamento utilizando listas. O caso é um clássico do filas *First-in First-out*.
